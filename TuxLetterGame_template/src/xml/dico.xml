@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionnaire xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns='http://myGame/tux'
+    xsi:schemaLocation='http://myGame/tux ../xsd/dico.xsd'>
+  <mot niveau="1">Rpg</mot>
+  <mot niveau="1">Dos</mot>
+  <mot niveau="1">Bug</mot>
+  <mot niveau="1">Bit</mot>
+  <mot niveau="1">Html</mot>
+  <mot niveau="1">Java</mot>
+  <mot niveau="2">Linux</mot>
+  <mot niveau="2">Pascal</mot>
+  <mot niveau="2">Disque</mot>
+  <mot niveau="3">Cédérom</mot>
+  <mot niveau="3">Clavier</mot>
+  <mot niveau="3">Mémoire</mot>
+  <mot niveau="3">Support</mot>
+  <mot niveau="3">Fortran</mot>
+  <mot niveau="4">Internet</mot>
+  <mot niveau="4">Moniteur</mot>
+  <mot niveau="4">Hardware</mot>
+  <mot niveau="4">Encodage</mot>
+  <mot niveau="5">Disquette</mot>
+  <mot niveau="5">Robotique</mot>
+  <mot niveau="5">Émulateur</mot>
+  <mot niveau="5">Ordinateur</mot>
+</dictionnaire>

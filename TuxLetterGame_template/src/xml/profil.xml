@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profil 
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns='http://myGame/tux'
+    xsi:schemaLocation='http://myGame/tux ../xsd/profil.xsd'>
+
+  <nom>Alban</nom>
+  <avatar>conan.jpg</avatar>
+  <anniversaire>2006-05-08</anniversaire>
+  <parties>
+    <partie date="2013-12-10">
+    </partie>
+    <partie date="2013-12-11" trouvé="75%">
+      <mot niveau="2">indice</mot>
+    </partie>
+    <partie date="2013-12-11">
+      <temps>20.0</temps>
+      <mot niveau="2">indice</mot>
+    </partie>
+  </parties>
+</profil>
